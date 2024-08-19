@@ -1,0 +1,17 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore the dist directory (for build artifacts)
+dist/
+
+# Ignore the Parcel cache directory
+.parcel-cache/
+
+# Ignore specific image files
+.forkify-architecture-recipe-loading.png
+.forkify-flowchart-part-1.png
+forkify-flowchart-part-2.png
+forkify-flowchart-part-3.png
+
+# Ignore Prettier configuration file
+.prettierrc
